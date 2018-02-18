@@ -39,8 +39,7 @@ public class User
 
 	public static void main(String[] args, int argc) 
 	{
-		
-		
+		System.out.println("Hola mundo");
 
 	}
 	
